@@ -1,3 +1,12 @@
+感谢原作者，clone了一份，基于最新百度定位sdk进行修改！
+
+
+增加：Android 6.0 获取权限
+
+
+原作者：https://github.com/liyujun1989/cordova-qdc-baidu-location.git
+
+
 #百度地图定位Android版插件
 本插件利用百度地图提供的定位功能进行Android版手机定位。
   
@@ -16,7 +25,7 @@
 __此插件就这么诞生了__
 
 ####版本
-基于百度地图Android版定位SDK（v5.3）
+基于百度地图Android版定位SDK（v7.1）
 
 ####一，申请密钥
 请参照：[申请密钥Android定位SDK](http://developer.baidu.com/map/index.php?title=android-locsdk/guide/key)
@@ -24,7 +33,7 @@ __此插件就这么诞生了__
 ####二，安装插件
 
 ```
-ionic plugin add https://github.com/liangzhenghui/cordova-qdc-baidu-location --variable API_KEY="<API_KEY>"
+ionic plugin add https://github.com/liubin0304/ionic_baidu_location --variable API_KEY="<API_KEY>"
 **注：此处的API_KEY来自于第一步，不带左右尖括号**
 ```
 
