@@ -69,6 +69,8 @@
     <source-file src="src/android/permission/RationaleListener.java" target-dir="src/com/qdc/plugins/baidu/permission" />
     <source-file src="libs/android/armeabi/liblocSDK7a.so" target-dir="libs/armeabi" />
     <source-file src="libs/android/armeabi/liblocSDK7a.so" target-dir="libs/armeabi-v7a" />
+    <source-file src="libs/android/armeabi/liblocSDK7a.so" target-dir="libs/arm64-v8a" />
+    <source-file src="libs/android/armeabi/liblocSDK7a.so" target-dir="libs/x86" />
     <source-file src="libs/android/BaiduLBS_Android.jar" target-dir="libs" />
   </platform>
 
